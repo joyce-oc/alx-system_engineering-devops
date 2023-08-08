@@ -1,0 +1,3 @@
+#!/bin/bash
+value_from_env="$TRUEKNOWLEDGE"
+result=$(( 128 + value_from_env  ))
