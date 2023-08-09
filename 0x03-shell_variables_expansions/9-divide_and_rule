@@ -1,2 +1,0 @@
-#!/bin/bash
-result=$(echo "scale=2; $power_value / $divide_value" )

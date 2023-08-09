@@ -1,2 +1,0 @@
-#!/bin/bash
-num_directories=$(echo "$path_var" | tr ':' '\n' | wc -l)

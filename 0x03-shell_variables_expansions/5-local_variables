@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Local Variables:", echo "$(set -o posix; set)" , echo "Environment Variables:", printenv, echo "Functions:" ,declare -F

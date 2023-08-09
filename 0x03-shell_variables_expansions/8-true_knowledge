@@ -1,2 +1,0 @@
-#!/bin/bash
-result=$(( 128 + value_from_env  ))

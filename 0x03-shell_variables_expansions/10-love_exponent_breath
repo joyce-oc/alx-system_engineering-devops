@@ -1,2 +1,0 @@
-#!/bin/bash
-result=1 for (( i=1; i<=love_value; i++ )); do result=$(( result * breath_value )) done
